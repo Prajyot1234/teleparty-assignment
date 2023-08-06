@@ -12,6 +12,6 @@ npm install
 ```
 
 
-Handled Error
-Used Performance techniques for performance optimization.
-Created added feature where you can see users repositories as well.
+Handled Error  <br />
+Used Performance techniques for performance optimization.  <br />
+Created added feature where you can see user's repositories as well.  <br />
