@@ -1,3 +1,8 @@
+<h2>Tech Stack</h2>
+NextJS <br />
+TailwindCSS <br />
+TypeScript <br />
+
 Clone this repository:
 
 ```
